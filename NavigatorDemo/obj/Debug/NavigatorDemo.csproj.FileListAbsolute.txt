@@ -1,0 +1,17 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\NavigatorDemo.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\NavigatorDemo.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\NavigatorDemo.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\log4net.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\log4net.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\obj\Debug\NavigatorDemo.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\obj\Debug\NavigatorDemo.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\obj\Debug\NavigatorDemo.csprojResolveAssemblyReference.cache

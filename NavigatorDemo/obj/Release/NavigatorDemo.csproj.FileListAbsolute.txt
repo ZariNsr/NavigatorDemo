@@ -1,0 +1,16 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\NavigatorDemo.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\NavigatorDemo.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\NavigatorDemo.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\log4net.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\log4net.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\obj\Release\NavigatorDemo.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemo\obj\Release\NavigatorDemo.pdb

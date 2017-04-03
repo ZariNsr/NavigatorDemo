@@ -1,0 +1,14 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\bin\Release\NavigatorDemoTests.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\bin\Release\NavigatorDemoTests.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\bin\Release\NavigatorDemo.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\bin\Release\log4net.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\bin\Release\NavigatorDemo.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\bin\Release\log4net.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\obj\Release\NavigatorDemoTests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\obj\Release\NavigatorDemoTests.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\NavigatorDemo\NavigatorDemoTests\obj\Release\NavigatorDemoTests.pdb
